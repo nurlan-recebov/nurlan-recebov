@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nurlan</h1>
 <h3 align="center">A passionate frontend developer from Baku</h3>
 
+<h1 align="center">Hi 👋, I'm Nurlan</h1>
+<h3 align="center">A passionate frontend developer from Baku</h3>
+
 - 🔭 I’m currently working on **Frontend developer**
 
 - 👨‍💻 All of my projects are available at [https://nurlan-recebov.herokuapp.com/](https://nurlan-recebov.herokuapp.com/)
 
-- 💬 Ask me about **html**
+- 💬 Ask me about **html,css,javascript**
 
 - 📫 How to reach me **nurlanrecebov86@gmail.com**
 
