@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nurlan</h1>
 <h3 align="center">A passionate frontend developer from Baku</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nurlan-recebov&label=Profile%20views&color=0e75b6&style=flat" alt="nurlan-recebov" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nurlan-recebov" alt="nurlan-recebov" /></a> </p>
+
 - 🔭 I’m currently working on **Frontend developer**
 
 - 👨‍💻 All of my projects are available at [https://nurlan-recebov.herokuapp.com/](https://nurlan-recebov.herokuapp.com/)
