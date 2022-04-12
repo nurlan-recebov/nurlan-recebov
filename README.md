@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurlan-recebov&label=Profile%20views&color=0e75b6&style=flat" alt="nurlan-recebov" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nurlan-recebov" alt="nurlan-recebov" /></a> </p>
-
 - 🔭 I’m currently working on **Frontend developer**
 
 - 👨‍💻 All of my projects are available at [https://nurlan-recebov.herokuapp.com/](https://nurlan-recebov.herokuapp.com/)
@@ -17,7 +15,7 @@
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/nurlan.cahangirov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nurlan.cahangirov" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/man_jahangiroff/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/man_jahangiroff/" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@nurlancahangirov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@nurlancahangirov" height="30" width="40" /></a>
+<a href="https://medium.com/@nurlancahangirov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nurlancahangirov" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/nurlanrecebov86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/nurlanrecebov86" height="30" width="40" /></a>
 </p>
 
