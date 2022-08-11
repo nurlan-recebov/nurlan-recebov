@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nurlan-cahangirov-132ba1194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nurlan-cahangirov-132ba1194/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/https:/www.linkedin.com/in/nurlan-cahangirov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/https:/www.linkedin.com/in/nurlan-cahangirov" height="30" width="40" /></a>
 <a href="https://fb.com/nurlan.cahangirov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nurlan.cahangirov" height="30" width="40" /></a>
 <a href="https://instagram.com/man_jahangiroff/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="man_jahangiroff/" height="30" width="40" /></a>
 <a href="https://medium.com/@nurlancahangirov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nurlancahangirov" height="30" width="40" /></a>
@@ -26,5 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurlan-recebov&show_icons=true&locale=en&layout=compact" alt="nurlan-recebov" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurlan-recebov&show_icons=true&locale=en" alt="nurlan-recebov" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurlan-recebov&" alt="nurlan-recebov" /></p>
