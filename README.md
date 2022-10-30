@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Frontend developer**
 
-- 👨‍💻 All of my projects are available at [https://nurlan-recebov.herokuapp.com/](https://nurlan-recebov.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [https://nurlanc.netlify.app/](https://nurlanc.netlify.app/)
 
 - 💬 Ask me about **html,css,javascript,react**
 
